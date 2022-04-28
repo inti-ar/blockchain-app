@@ -1,0 +1,6 @@
+[submodule "dapp"]
+	path = dapp
+	url = git@github.com:luvitale/inti-web3-dapp
+[submodule "sc"]
+	path = sc
+	url = git@github.com:luvitale/inti-truffle-sc
